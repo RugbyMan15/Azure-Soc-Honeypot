@@ -1,5 +1,6 @@
 # Azure-Soc-Honeypot
-![Cloud Honeynet / SOC](https://i.imgur.com/ZWxe03e.jpg)
+![Cloud Honeynet / SOC](![Untitled drawing](https://github.com/RugbyMan15/Azure-Soc-Honeypot/assets/121908604/8b8eb492-4865-448c-8b04-bdf18002f4fc)
+)
 
 ## Introduction
 
