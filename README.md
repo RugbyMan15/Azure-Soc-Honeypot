@@ -34,3 +34,5 @@ For the "BEFORE" metrics, all resources were originally deployed, exposed to the
 For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL traffic with the exception of my admin workstation, and all other resources were protected by their built-in firewalls as well as Private Endpoint
 
 ## Attack Maps Before Hardening / Security Controls
+Windows-rdp-smb-auth-fail ![Screenshot 2023-10-06 134549](https://github.com/RugbyMan15/Azure-Soc-Honeypot/assets/121908604/d5600fb8-47b9-45a2-b40f-7c3becbc6557)
+syslog-ssh-auth-fail 
