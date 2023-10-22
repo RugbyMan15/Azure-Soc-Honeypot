@@ -36,4 +36,4 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 ## Attack Maps Before Hardening / Security Controls
 Windows-rdp-smb-auth-fail ![Screenshot 2023-10-06 134549](https://github.com/RugbyMan15/Azure-Soc-Honeypot/assets/121908604/d5600fb8-47b9-45a2-b40f-7c3becbc6557)
 syslog-ssh-auth-fail ![Screenshot 2023-10-06 134330](https://github.com/RugbyMan15/Azure-Soc-Honeypot/assets/121908604/d557787a-1d47-48f3-9ee9-5d8baba81e44)
-NSG malicious allowed in 
+NSG malicious allowed in ![Screenshot 2023-10-06 134108](https://github.com/RugbyMan15/Azure-Soc-Honeypot/assets/121908604/ab15e7a2-099e-4354-9b82-70c418aa2ca7)
