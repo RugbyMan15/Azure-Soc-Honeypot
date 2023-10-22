@@ -16,3 +16,4 @@ In this project, I will build a mini honeynet in Azure and ingest log sources fr
 ![aBDwnKbpublic](https://github.com/RugbyMan15/Azure-Soc-Honeypot/assets/121908604/48dc8436-d46b-4d22-919b-246546f671bf)
 
 ## Architecture After Hardening / Security Controls
+![harden](https://github.com/RugbyMan15/Azure-Soc-Honeypot/assets/121908604/1ecfd53f-e1b6-4da0-8ddb-a90c2dd01993)
